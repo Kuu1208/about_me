@@ -110,11 +110,9 @@ header a:hover .tooltip-text {
 /*Home*/
 
 #home {
-    background-image: url("C:\Users\iyeji\OneDrive\바탕 화면\Project\images\bg.jpg");
+    position: relative;
     background-size: cover;
-    background-attachment: fixed;
-    background-position: 0 -120px;
-    height: 100vh;
+    background-color: rgb(231, 197, 212);
 }
 
 #home .title{
